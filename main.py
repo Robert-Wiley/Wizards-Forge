@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, render_template_string
 import subprocess
 import sys
 import json
@@ -12,15 +12,133 @@ MISSION_FILE = SCOUT_DIR / "mission.runtime.json"
 
 PENDING_APPROVAL = {}
 
+MISSION_PAGE = """
+<!doctype html>
+<html>
+<head>
+    <title>Wizard's Forge</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background: #111;
+            color: #eee;
+        }
+
+        textarea {
+            width: 100%;
+            height: 140px;
+            padding: 12px;
+            font-size: 16px;
+            background: #1d1d1d;
+            color: #fff;
+            border: 1px solid #555;
+            border-radius: 8px;
+        }
+
+        button {
+            margin-top: 12px;
+            padding: 12px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .panel {
+            margin-top: 24px;
+            padding: 18px;
+            background: #1a1a1a;
+            border-radius: 10px;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>⚙️ Wizard's Forge</h1>
+
+<p>
+Agent 001: Governance Research Scout
+<br>
+Status: Ready
+<br>
+Version: 0.3
+</p>
+
+<h2>New Mission</h2>
+
+<textarea id="mission"
+placeholder="Enter a research mission..."></textarea>
+
+<br>
+
+<button onclick="submitMission()">Submit Mission</button>
+
+<div class="panel">
+    <h3>Mission Result</h3>
+    <pre id="result">Awaiting mission...</pre>
+</div>
+
+<script>
+
+async function submitMission() {
+
+    const mission =
+        document.getElementById("mission").value;
+
+    const resultBox =
+        document.getElementById("result");
+
+    resultBox.textContent =
+        "Running mission...";
+
+    const response =
+        await fetch("/submit-mission", {
+
+            method: "POST",
+
+            headers: {
+                "Content-Type": "application/json"
+            },
+
+            body: JSON.stringify({
+                research_question: mission
+            })
+        });
+
+    const data =
+        await response.json();
+
+    resultBox.textContent =
+        JSON.stringify(data, null, 2);
+}
+
+</script>
+
+</body>
+</html>
+"""
+
 
 @app.route("/")
 def home():
+    return render_template_string(MISSION_PAGE)
+
+
+@app.route("/status")
+def status():
     return jsonify({
         "system": "Wizard's Forge",
         "status": "online",
         "agent_001": "Governance Research Scout",
         "agent_status": "ready",
-        "version": "0.2"
+        "version": "0.3"
     })
 
 
@@ -33,27 +151,42 @@ def health():
 
 @app.route("/submit-mission", methods=["POST"])
 def submit_mission():
+
     data = request.get_json(silent=True) or {}
 
-    research_question = data.get("research_question", "").strip()
+    research_question = data.get(
+        "research_question",
+        ""
+    ).strip()
 
     if not research_question:
         return jsonify({
-            "error": "research_question is required"
+            "error":
+            "research_question is required"
         }), 400
 
-    mission_id = f"M-{datetime.now(timezone.utc).strftime('%Y%m%d%H%M%S')}"
+    mission_id = (
+        "M-" +
+        datetime.now(timezone.utc)
+        .strftime("%Y%m%d%H%M%S")
+    )
 
     mission = {
         "mission_id": mission_id,
-        "research_question": research_question,
-        "submitted_at": datetime.now(timezone.utc).isoformat(),
+        "research_question":
+            research_question,
+        "submitted_at":
+            datetime.now(timezone.utc)
+            .isoformat(),
         "submitted_by": "human",
         "approval_required": True
     }
 
     MISSION_FILE.write_text(
-        json.dumps(mission, indent=2),
+        json.dumps(
+            mission,
+            indent=2
+        ),
         encoding="utf-8"
     )
 
@@ -74,29 +207,45 @@ def submit_mission():
     )
 
     PENDING_APPROVAL[mission_id] = {
-        "status": "AWAITING_HUMAN_APPROVAL",
-        "research_question": research_question,
-        "stdout": result.stdout,
-        "stderr": result.stderr,
-        "return_code": result.returncode
+        "status":
+            "AWAITING_HUMAN_APPROVAL",
+        "research_question":
+            research_question,
+        "stdout":
+            result.stdout,
+        "stderr":
+            result.stderr,
+        "return_code":
+            result.returncode
     }
 
     return jsonify({
         "mission_id": mission_id,
-        "status": "AWAITING_HUMAN_APPROVAL",
-        "return_code": result.returncode,
-        "stdout": result.stdout,
-        "stderr": result.stderr
+        "status":
+            "AWAITING_HUMAN_APPROVAL",
+        "return_code":
+            result.returncode,
+        "stdout":
+            result.stdout,
+        "stderr":
+            result.stderr
     })
 
 
-@app.route("/approval/<mission_id>", methods=["GET"])
+@app.route(
+    "/approval/<mission_id>",
+    methods=["GET"]
+)
 def approval_status(mission_id):
-    mission = PENDING_APPROVAL.get(mission_id)
+
+    mission = PENDING_APPROVAL.get(
+        mission_id
+    )
 
     if not mission:
         return jsonify({
-            "error": "mission not found"
+            "error":
+            "mission not found"
         }), 404
 
     return jsonify({
@@ -105,38 +254,66 @@ def approval_status(mission_id):
     })
 
 
-@app.route("/approval/<mission_id>", methods=["POST"])
+@app.route(
+    "/approval/<mission_id>",
+    methods=["POST"]
+)
 def approval_decision(mission_id):
-    mission = PENDING_APPROVAL.get(mission_id)
+
+    mission = PENDING_APPROVAL.get(
+        mission_id
+    )
 
     if not mission:
         return jsonify({
-            "error": "mission not found"
+            "error":
+            "mission not found"
         }), 404
 
-    data = request.get_json(silent=True) or {}
-    decision = data.get("decision", "").upper()
+    data = request.get_json(
+        silent=True
+    ) or {}
 
-    if decision not in {"APPROVE", "REJECT"}:
+    decision = data.get(
+        "decision",
+        ""
+    ).upper()
+
+    if decision not in {
+        "APPROVE",
+        "REJECT"
+    }:
         return jsonify({
-            "error": "decision must be APPROVE or REJECT"
+            "error":
+            "decision must be "
+            "APPROVE or REJECT"
         }), 400
 
     mission["status"] = (
-        "APPROVED" if decision == "APPROVE" else "REJECTED"
+        "APPROVED"
+        if decision == "APPROVE"
+        else "REJECTED"
     )
+
     mission["decision"] = decision
-    mission["decided_at"] = datetime.now(timezone.utc).isoformat()
+
+    mission["decided_at"] = (
+        datetime.now(timezone.utc)
+        .isoformat()
+    )
 
     return jsonify({
         "mission_id": mission_id,
-        "status": mission["status"],
-        "decision": decision
+        "status":
+            mission["status"],
+        "decision":
+            decision
     })
 
 
 @app.route("/run-scout")
 def run_scout():
+
     result = subprocess.run(
         [
             sys.executable,
@@ -154,7 +331,10 @@ def run_scout():
     )
 
     return jsonify({
-        "return_code": result.returncode,
-        "stdout": result.stdout,
-        "stderr": result.stderr
+        "return_code":
+            result.returncode,
+        "stdout":
+            result.stdout,
+        "stderr":
+            result.stderr
     })
