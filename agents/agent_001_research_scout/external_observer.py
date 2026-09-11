@@ -52,24 +52,64 @@ def search_crossref(query, rows=5):
         if date_parts and date_parts[0]:
             year = date_parts[0][0]
 
-        container = item.get(
+        journal_list = item.get(
             "container-title",
             []
         )
 
+        journal = (
+            journal_list[0]
+            if journal_list
+            else None
+        )
+
+        doi = item.get("DOI")
+        url = item.get("URL")
+
+        author_text = (
+            ", ".join(authors)
+            if authors
+            else "Unknown author"
+        )
+
+        citation_parts = [
+            author_text,
+            f"({year})" if year else None,
+            title,
+            journal,
+            f"DOI: {doi}" if doi else url
+        ]
+
+        citation = ". ".join(
+            str(part)
+            for part in citation_parts
+            if part
+        )
+
         candidates.append({
             "title": title,
+
+            "source_type": "scholarly_work",
+
+            "citation": citation,
+
+            "relevance_summary":
+                "Candidate scholarly work retrieved "
+                "through Crossref in response to the "
+                "submitted research mission. Relevance "
+                "requires human or model-directed review.",
+
+            "confidence": 0.75,
+
             "authors": authors,
             "year": year,
-            "doi": item.get("DOI"),
-            "type": item.get("type"),
-            "journal": (
-                container[0]
-                if container
-                else None
-            ),
-            "url": item.get("URL"),
-            "source": "Crossref"
+            "doi": doi,
+            "journal": journal,
+            "url": url,
+
+            "observation_source": "Crossref",
+
+            "raw_source_type": item.get("type")
         })
 
     return candidates
