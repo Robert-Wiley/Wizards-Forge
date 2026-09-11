@@ -1,0 +1,73 @@
+{
+  "mission_id": "TGD-001",
+  "research_question": "Identify foundational theories that may explain governance as a dynamic system rather than a static organizational function.",
+  "cycle_started_at": "2026-09-11T19:17:11.958752+00:00",
+  "agent": "Governance Research Scout",
+  "agent_version": "0.1",
+  "status": "awaiting_human_review",
+  "counts": {
+    "considered": 2,
+    "accepted": 2,
+    "escalated": 0,
+    "rejected": 0
+  },
+  "sources": [
+    {
+      "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+      "source_type": "academic book",
+      "citation": "Norbert Wiener, 1948",
+      "relevance_summary": "Foundational treatment of feedback, control, communication, and dynamic regulation.",
+      "constructs": [
+        "feedback",
+        "control",
+        "communication",
+        "state"
+      ],
+      "confidence": 0.98,
+      "sourced_claims": [
+        "Cybernetics studies control and communication in animals and machines."
+      ],
+      "inferences": [
+        "Feedback concepts may provide a theoretical basis for modeling governance state change."
+      ],
+      "decision": "accept",
+      "decision_rationale": [
+        "Candidate satisfies version 0.1 governance gates."
+      ],
+      "evaluated_at": "2026-09-11T19:17:11.958628+00:00"
+    },
+    {
+      "title": "Brain of the Firm",
+      "source_type": "academic book",
+      "citation": "Stafford Beer, 1972",
+      "relevance_summary": "Develops the Viable System Model and treats organizations as adaptive systems requiring regulation and feedback.",
+      "constructs": [
+        "viability",
+        "recursion",
+        "regulation",
+        "variety"
+      ],
+      "confidence": 0.98,
+      "sourced_claims": [
+        "Beer applies cybernetic principles to organizational viability."
+      ],
+      "inferences": [
+        "Organizational viability may help explain governance adaptation under changing environmental conditions."
+      ],
+      "decision": "accept",
+      "decision_rationale": [
+        "Candidate satisfies version 0.1 governance gates."
+      ],
+      "evaluated_at": "2026-09-11T19:17:11.958692+00:00"
+    }
+  ],
+  "synthesis": {
+    "constructs_identified": [],
+    "theoretical_connections": [],
+    "contradictions": [],
+    "gaps": [],
+    "next_recommended_action": "Human reviews source decisions before synthesis or repository write."
+  },
+  "human_decision": null,
+  "cycle_completed_at": "2026-09-11T19:17:11.958757+00:00"
+}
