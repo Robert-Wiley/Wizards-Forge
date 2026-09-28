@@ -13,6 +13,8 @@ The purpose of this Commons is not to present a finished theory. It is to expose
 - [Open Research Charter](OPEN-RESEARCH-CHARTER.md)
 - [Break This](BREAK-THIS.md)
 - [Research History](RESEARCH-HISTORY.md)
+- [Computational Research History](code-history/README.md)
+- [Obsidian / GRC Mapping Formation Record](code-history/FORMATION-GRC-MAPPING-OBSIDIAN.md)
 - [How to Contribute](CONTRIBUTING.md)
 - [Reproducibility](REPRODUCIBILITY.md)
 - [Research State Model](STATUS-MODEL.md)
