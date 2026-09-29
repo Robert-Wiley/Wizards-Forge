@@ -1,0 +1,1080 @@
+[
+  {
+    "Object ID": "GOV-001",
+    "Display Name": "Organizational Purpose, Direction, and Identity",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-002",
+    "Display Name": "Authority and Decision Rights",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-003",
+    "Display Name": "Accountability and Responsibility",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-004",
+    "Display Name": "Board and Executive Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-005",
+    "Display Name": "Organizational Structure",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-006",
+    "Display Name": "Strategy Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-007",
+    "Display Name": "Enterprise Objective Setting",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-008",
+    "Display Name": "Policy Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-009",
+    "Display Name": "Standards, Procedures, and Rules Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-010",
+    "Display Name": "Ethics and Organizational Conduct",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-011",
+    "Display Name": "Culture Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-012",
+    "Display Name": "Stakeholder Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-013",
+    "Display Name": "Risk Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-014",
+    "Display Name": "Compliance Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-015",
+    "Display Name": "Internal Control Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-016",
+    "Display Name": "Assurance Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-017",
+    "Display Name": "Performance Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-018",
+    "Display Name": "Measurement and Metrics Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-019",
+    "Display Name": "Decision Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-020",
+    "Display Name": "Information Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-021",
+    "Display Name": "Data Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-022",
+    "Display Name": "Technology Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-023",
+    "Display Name": "Cybersecurity Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-024",
+    "Display Name": "Identity and Access Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-025",
+    "Display Name": "Privacy Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-026",
+    "Display Name": "Artificial Intelligence Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-027",
+    "Display Name": "Financial Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-028",
+    "Display Name": "Human Capital Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-029",
+    "Display Name": "Third-Party and Supply-Chain Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-030",
+    "Display Name": "Procurement Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-031",
+    "Display Name": "Program and Project Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-032",
+    "Display Name": "Change Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-033",
+    "Display Name": "Operational Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-034",
+    "Display Name": "Resilience Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-035",
+    "Display Name": "Incident and Crisis Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-036",
+    "Display Name": "Issue and Exception Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-037",
+    "Display Name": "Quality Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-038",
+    "Display Name": "Legal Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-039",
+    "Display Name": "Regulatory Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-040",
+    "Display Name": "Records and Documentation Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-041",
+    "Display Name": "Communications Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-042",
+    "Display Name": "Transparency and Disclosure",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-043",
+    "Display Name": "Resource Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-044",
+    "Display Name": "Asset Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-045",
+    "Display Name": "Product and Service Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-046",
+    "Display Name": "Architecture Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-047",
+    "Display Name": "Innovation Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-048",
+    "Display Name": "ESG and Sustainability Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-049",
+    "Display Name": "Corporate Structure and Entity Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-050",
+    "Display Name": "Governance of Governance",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "GOV-051",
+    "Display Name": "Governance Signal and Decision Integrity",
+    "Domain": "Governance",
+    "Object Type": "Governance Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-001",
+    "Display Name": "Risk Context Definition",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-002",
+    "Display Name": "Risk Scope Definition",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-003",
+    "Display Name": "Risk Objective Association",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-004",
+    "Display Name": "Risk Assumption Management",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-005",
+    "Display Name": "Risk Constraint Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-006",
+    "Display Name": "Risk Time-Horizon Definition",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-007",
+    "Display Name": "Risk Event Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-008",
+    "Display Name": "Threat Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-009",
+    "Display Name": "Opportunity Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-010",
+    "Display Name": "Vulnerability Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-011",
+    "Display Name": "Exposure Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-012",
+    "Display Name": "Hazard Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-013",
+    "Display Name": "Dependency Risk Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-014",
+    "Display Name": "Concentration Risk Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-015",
+    "Display Name": "Emerging Risk Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-016",
+    "Display Name": "Systemic Risk Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-017",
+    "Display Name": "Cascading Risk Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-018",
+    "Display Name": "Interdependency Risk Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-019",
+    "Display Name": "Risk Scenario Development",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-020",
+    "Display Name": "Scenario Boundary Definition",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-021",
+    "Display Name": "Threat/Event Pathway Modeling",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-022",
+    "Display Name": "Causal Factor Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-023",
+    "Display Name": "Control/Condition Interaction Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-024",
+    "Display Name": "Scenario Dependency Mapping",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-025",
+    "Display Name": "Scenario Escalation Modeling",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-026",
+    "Display Name": "Scenario Propagation Modeling",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-027",
+    "Display Name": "Probability / Likelihood Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-028",
+    "Display Name": "Event Frequency Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-029",
+    "Display Name": "Vulnerability Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-030",
+    "Display Name": "Consequence Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-031",
+    "Display Name": "Impact Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-032",
+    "Display Name": "Loss Magnitude Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-033",
+    "Display Name": "Opportunity Benefit Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-034",
+    "Display Name": "Uncertainty Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-035",
+    "Display Name": "Sensitivity Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-036",
+    "Display Name": "Distribution Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-037",
+    "Display Name": "Risk Analysis Method Selection",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-038",
+    "Display Name": "Qualitative Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-039",
+    "Display Name": "Quantitative Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-040",
+    "Display Name": "Comparative Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-041",
+    "Display Name": "Correlation and Dependency Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-042",
+    "Display Name": "Risk Evaluation Against Criteria",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-043",
+    "Display Name": "Risk Tolerance Comparison",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-044",
+    "Display Name": "Risk Appetite Comparison",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-045",
+    "Display Name": "Risk Prioritization",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-046",
+    "Display Name": "Risk Materiality Assessment",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-047",
+    "Display Name": "Risk Criticality Assessment",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-048",
+    "Display Name": "Risk Velocity Assessment",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-049",
+    "Display Name": "Risk Persistence Assessment",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-050",
+    "Display Name": "Risk Detectability Assessment",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-051",
+    "Display Name": "Risk Treatment Option Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-052",
+    "Display Name": "Risk Avoidance Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-053",
+    "Display Name": "Risk Reduction Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-054",
+    "Display Name": "Risk Transfer / Sharing Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-055",
+    "Display Name": "Risk Acceptance Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-056",
+    "Display Name": "Opportunity Exploitation Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-057",
+    "Display Name": "Control Effectiveness Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-058",
+    "Display Name": "Treatment Cost-Benefit Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-059",
+    "Display Name": "Treatment Feasibility Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-060",
+    "Display Name": "Treatment Selection Support",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-061",
+    "Display Name": "Inherent Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-062",
+    "Display Name": "Residual Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-063",
+    "Display Name": "Risk Delta Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-064",
+    "Display Name": "Secondary Risk Identification",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-065",
+    "Display Name": "Compensating Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-066",
+    "Display Name": "Risk Transfer Residual Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-067",
+    "Display Name": "Risk Acceptance Residual Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-068",
+    "Display Name": "Risk Aggregation",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-069",
+    "Display Name": "Risk Portfolio Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-070",
+    "Display Name": "Risk Concentration Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-071",
+    "Display Name": "Risk Diversification Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-072",
+    "Display Name": "Correlated Risk Aggregation",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-073",
+    "Display Name": "Enterprise Exposure Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-074",
+    "Display Name": "Cross-Domain Risk Aggregation",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-075",
+    "Display Name": "Risk Indicator Development",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-076",
+    "Display Name": "Key Risk Indicator Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-077",
+    "Display Name": "Risk Threshold Monitoring",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-078",
+    "Display Name": "Exposure Monitoring",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-079",
+    "Display Name": "Risk Trend Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-080",
+    "Display Name": "Risk Drift Detection",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-081",
+    "Display Name": "Emerging Condition Monitoring",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-082",
+    "Display Name": "Control Degradation Risk Monitoring",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-083",
+    "Display Name": "Dependency Change Monitoring",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-084",
+    "Display Name": "Scenario Trigger Monitoring",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-085",
+    "Display Name": "Risk Event Realization Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-086",
+    "Display Name": "Expected-versus-Actual Loss Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-087",
+    "Display Name": "Risk Model Validation",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-088",
+    "Display Name": "Assumption Validation",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-089",
+    "Display Name": "Forecast Accuracy Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-090",
+    "Display Name": "Risk Treatment Effectiveness Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-091",
+    "Display Name": "Risk Learning and Model Improvement",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-092",
+    "Display Name": "Risk Knowledge Capture and Reuse",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-093",
+    "Display Name": "Risk Communication",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-094",
+    "Display Name": "Risk Visualization",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-095",
+    "Display Name": "Risk Reporting",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-096",
+    "Display Name": "Risk Decision Support",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-097",
+    "Display Name": "Risk Confidence Communication",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-098",
+    "Display Name": "Risk Methodology Design and Maintenance",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-099",
+    "Display Name": "Risk Data Quality Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-100",
+    "Display Name": "Risk Model Risk Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-101",
+    "Display Name": "Risk Bias Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-102",
+    "Display Name": "Risk Estimation Error Analysis",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  },
+  {
+    "Object ID": "RSK-103",
+    "Display Name": "Risk Analysis Quality Validation",
+    "Domain": "Risk",
+    "Object Type": "Risk Function",
+    "Public Status": "Review"
+  }
+]

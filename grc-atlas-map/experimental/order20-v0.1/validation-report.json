@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "checks": {
+    "235_unique_canonical_relationships": true,
+    "132_governance_103_risk": true,
+    "all_source_confidence_is_hypothesis": true,
+    "all_endpoints_resolve": true,
+    "unique_node_ids": true,
+    "no_held_endpoints": true,
+    "internal_governance_risk_only": true,
+    "pillars_match_node_domains": true,
+    "exact_node_field_allowlist": true,
+    "exact_edge_field_allowlist": true,
+    "ids_endpoints_directions_preserved": true,
+    "valid_directionality": true,
+    "hypothesis_and_neutral_label_on_every_edge": true,
+    "no_internal_source_links_in_public_payload": true,
+    "written_payload_roundtrip": true,
+    "explicit_owner_approval_recorded": true,
+    "approved_payload_hashes_unchanged": true,
+    "canonical_source_rechecked_unchanged": true
+  },
+  "check_count": 18,
+  "publication_approval": "APPROVED for exact experimental dataset",
+  "counts": {
+    "nodes": 154,
+    "relationships": 235,
+    "governance_relationships": 132,
+    "risk_relationships": 103
+  },
+  "dataset_hashes": {
+    "public-nodes.json": {
+      "sha256": "2fa8364183dbbda568774ca856c913163ac579595dc5ddda4ee9f86f793622f9",
+      "bytes": 28677
+    },
+    "public-edges.json": {
+      "sha256": "5f442e3f9dcfde30845d6146db2bb717326a766fde2f75ff0cd77b3661c41528",
+      "bytes": 72559
+    }
+  },
+  "limitations": "These checks validate projection, exclusions and integrity. They do not validate research claims or authorize publication."
+}

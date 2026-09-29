@@ -1,0 +1,56 @@
+{
+  "export_version": "order20-hypothesis-disclosure-v0.1",
+  "generated_at": "2026-09-29T22:33:42.502191+00:00",
+  "artifact_status": "Approved experimental disclosure",
+  "publication_authorized": true,
+  "canonical_system": "Notion",
+  "source_baseline": {
+    "nodes": 286,
+    "relationships": 715,
+    "retrieved_date": "2026-09-29"
+  },
+  "selection": "All internal Governance and internal Risk relationships in the inspected baseline; exact IDs are in public-edges.json.",
+  "public_notice": "This experimental dataset presents proposed directed connections among Governance and Risk functions. Every relationship is classified as Hypothesis. Inclusion does not establish empirical validation, causation, effectiveness, or assurance. Direction preserves the research proposal; it does not demonstrate an observed flow. The neutral label proposed connection deliberately omits the underlying relationship taxonomy. This is a partial topology, not a complete model. Absent connections do not establish the absence of a relationship. Node placement, centrality, and connectivity must not be treated as evidence of importance or correctness. Public feedback may inform later review; it does not automatically change canonical confidence classifications.",
+  "review_status": "Technical validation passed; owner approved exact dataset",
+  "disclosure_decision": {
+    "decision_id": "ORDER20-DISCLOSURE-2026-09-29",
+    "date": "2026-09-29",
+    "authority": "Research owner",
+    "scope": "Exact node and edge file hashes in this manifest",
+    "effect": "Permission to disclose experimental hypotheses; no confidence upgrade"
+  },
+  "files": {
+    "public-nodes.json": {
+      "sha256": "2fa8364183dbbda568774ca856c913163ac579595dc5ddda4ee9f86f793622f9",
+      "bytes": 28677
+    },
+    "public-edges.json": {
+      "sha256": "5f442e3f9dcfde30845d6146db2bb717326a766fde2f75ff0cd77b3661c41528",
+      "bytes": 72559
+    }
+  },
+  "excluded": [
+    "All cross-domain relationships",
+    "Compliance relationships and held nodes",
+    "Canonical relationship taxonomy",
+    "Criticality, propagation and strength scores or bands",
+    "Evidence, analyst notes and private provenance URLs"
+  ],
+  "publication_requirements": [
+    "Explicit owner decision tied to these dataset hashes",
+    "Retain Hypothesis on each edge and display the public notice",
+    "Keep experimental layer distinguishable from existing public-review baseline",
+    "Recheck source status before publishing"
+  ],
+  "counts": {
+    "nodes": 154,
+    "relationships": 235,
+    "governance_relationships": 132,
+    "risk_relationships": 103
+  },
+  "source_status_note": "Node Public Status values preserve the source snapshot. Package-level disclosure approval applies only to these file hashes; it is not global staging approval.",
+  "source_recheck": {
+    "date": "2026-09-29",
+    "result": "Exact match to reviewed source projections"
+  }
+}

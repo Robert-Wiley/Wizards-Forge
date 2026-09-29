@@ -1,0 +1,2352 @@
+[
+  {
+    "Relationship ID": "REL-0001",
+    "Source Node ID": "GOV-001",
+    "Target Node ID": "GOV-006",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0002",
+    "Source Node ID": "GOV-001",
+    "Target Node ID": "GOV-007",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0003",
+    "Source Node ID": "GOV-001",
+    "Target Node ID": "GOV-011",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0004",
+    "Source Node ID": "GOV-002",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0005",
+    "Source Node ID": "GOV-002",
+    "Target Node ID": "GOV-036",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0006",
+    "Source Node ID": "GOV-002",
+    "Target Node ID": "GOV-003",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0007",
+    "Source Node ID": "GOV-003",
+    "Target Node ID": "GOV-017",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0008",
+    "Source Node ID": "GOV-003",
+    "Target Node ID": "GOV-015",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0009",
+    "Source Node ID": "GOV-004",
+    "Target Node ID": "GOV-006",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0010",
+    "Source Node ID": "GOV-004",
+    "Target Node ID": "GOV-013",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0011",
+    "Source Node ID": "GOV-004",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0012",
+    "Source Node ID": "GOV-005",
+    "Target Node ID": "GOV-002",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0013",
+    "Source Node ID": "GOV-005",
+    "Target Node ID": "GOV-003",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0014",
+    "Source Node ID": "GOV-005",
+    "Target Node ID": "GOV-041",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0015",
+    "Source Node ID": "GOV-006",
+    "Target Node ID": "GOV-007",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0016",
+    "Source Node ID": "GOV-006",
+    "Target Node ID": "GOV-043",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0017",
+    "Source Node ID": "GOV-006",
+    "Target Node ID": "GOV-031",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0018",
+    "Source Node ID": "GOV-007",
+    "Target Node ID": "GOV-017",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0019",
+    "Source Node ID": "GOV-007",
+    "Target Node ID": "GOV-018",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0020",
+    "Source Node ID": "GOV-008",
+    "Target Node ID": "GOV-009",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0021",
+    "Source Node ID": "GOV-008",
+    "Target Node ID": "GOV-033",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0022",
+    "Source Node ID": "GOV-008",
+    "Target Node ID": "GOV-036",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0023",
+    "Source Node ID": "GOV-009",
+    "Target Node ID": "GOV-033",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0024",
+    "Source Node ID": "GOV-009",
+    "Target Node ID": "GOV-015",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0025",
+    "Source Node ID": "GOV-010",
+    "Target Node ID": "GOV-011",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0026",
+    "Source Node ID": "GOV-010",
+    "Target Node ID": "GOV-030",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0027",
+    "Source Node ID": "GOV-010",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0028",
+    "Source Node ID": "GOV-011",
+    "Target Node ID": "GOV-015",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0029",
+    "Source Node ID": "GOV-011",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0030",
+    "Source Node ID": "GOV-011",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0031",
+    "Source Node ID": "GOV-012",
+    "Target Node ID": "GOV-001",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0032",
+    "Source Node ID": "GOV-012",
+    "Target Node ID": "GOV-042",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0033",
+    "Source Node ID": "GOV-012",
+    "Target Node ID": "GOV-006",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0034",
+    "Source Node ID": "GOV-013",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0035",
+    "Source Node ID": "GOV-013",
+    "Target Node ID": "GOV-043",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0036",
+    "Source Node ID": "GOV-013",
+    "Target Node ID": "GOV-036",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0037",
+    "Source Node ID": "GOV-014",
+    "Target Node ID": "GOV-036",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0038",
+    "Source Node ID": "GOV-014",
+    "Target Node ID": "GOV-039",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0039",
+    "Source Node ID": "GOV-014",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0040",
+    "Source Node ID": "GOV-015",
+    "Target Node ID": "GOV-016",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0041",
+    "Source Node ID": "GOV-015",
+    "Target Node ID": "GOV-033",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0042",
+    "Source Node ID": "GOV-015",
+    "Target Node ID": "GOV-017",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0043",
+    "Source Node ID": "GOV-016",
+    "Target Node ID": "GOV-015",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0044",
+    "Source Node ID": "GOV-016",
+    "Target Node ID": "GOV-004",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0045",
+    "Source Node ID": "GOV-016",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0046",
+    "Source Node ID": "GOV-017",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0047",
+    "Source Node ID": "GOV-017",
+    "Target Node ID": "GOV-018",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0048",
+    "Source Node ID": "GOV-018",
+    "Target Node ID": "GOV-017",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0049",
+    "Source Node ID": "GOV-018",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0050",
+    "Source Node ID": "GOV-018",
+    "Target Node ID": "GOV-021",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0051",
+    "Source Node ID": "GOV-019",
+    "Target Node ID": "GOV-032",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0052",
+    "Source Node ID": "GOV-019",
+    "Target Node ID": "GOV-041",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0053",
+    "Source Node ID": "GOV-019",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0054",
+    "Source Node ID": "GOV-020",
+    "Target Node ID": "GOV-040",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0055",
+    "Source Node ID": "GOV-020",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0056",
+    "Source Node ID": "GOV-020",
+    "Target Node ID": "GOV-041",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0057",
+    "Source Node ID": "GOV-021",
+    "Target Node ID": "GOV-018",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0058",
+    "Source Node ID": "GOV-021",
+    "Target Node ID": "GOV-026",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0059",
+    "Source Node ID": "GOV-021",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0060",
+    "Source Node ID": "GOV-022",
+    "Target Node ID": "GOV-046",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0061",
+    "Source Node ID": "GOV-022",
+    "Target Node ID": "GOV-023",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0062",
+    "Source Node ID": "GOV-022",
+    "Target Node ID": "GOV-031",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0063",
+    "Source Node ID": "GOV-023",
+    "Target Node ID": "GOV-024",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0064",
+    "Source Node ID": "GOV-023",
+    "Target Node ID": "GOV-034",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0065",
+    "Source Node ID": "GOV-023",
+    "Target Node ID": "GOV-035",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0066",
+    "Source Node ID": "GOV-024",
+    "Target Node ID": "GOV-015",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0067",
+    "Source Node ID": "GOV-024",
+    "Target Node ID": "GOV-020",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0068",
+    "Source Node ID": "GOV-025",
+    "Target Node ID": "GOV-021",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0069",
+    "Source Node ID": "GOV-025",
+    "Target Node ID": "GOV-026",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0070",
+    "Source Node ID": "GOV-025",
+    "Target Node ID": "GOV-014",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0071",
+    "Source Node ID": "GOV-026",
+    "Target Node ID": "GOV-021",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0072",
+    "Source Node ID": "GOV-026",
+    "Target Node ID": "GOV-022",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0073",
+    "Source Node ID": "GOV-026",
+    "Target Node ID": "GOV-016",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0074",
+    "Source Node ID": "GOV-027",
+    "Target Node ID": "GOV-043",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0075",
+    "Source Node ID": "GOV-027",
+    "Target Node ID": "GOV-017",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0076",
+    "Source Node ID": "GOV-027",
+    "Target Node ID": "GOV-031",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0077",
+    "Source Node ID": "GOV-028",
+    "Target Node ID": "GOV-003",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0078",
+    "Source Node ID": "GOV-028",
+    "Target Node ID": "GOV-011",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0079",
+    "Source Node ID": "GOV-028",
+    "Target Node ID": "GOV-024",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0080",
+    "Source Node ID": "GOV-029",
+    "Target Node ID": "GOV-030",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0081",
+    "Source Node ID": "GOV-029",
+    "Target Node ID": "GOV-034",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0082",
+    "Source Node ID": "GOV-029",
+    "Target Node ID": "GOV-045",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0083",
+    "Source Node ID": "GOV-030",
+    "Target Node ID": "GOV-029",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0084",
+    "Source Node ID": "GOV-030",
+    "Target Node ID": "GOV-027",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0085",
+    "Source Node ID": "GOV-030",
+    "Target Node ID": "GOV-044",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0086",
+    "Source Node ID": "GOV-031",
+    "Target Node ID": "GOV-006",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0087",
+    "Source Node ID": "GOV-031",
+    "Target Node ID": "GOV-032",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0088",
+    "Source Node ID": "GOV-031",
+    "Target Node ID": "GOV-043",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0089",
+    "Source Node ID": "GOV-032",
+    "Target Node ID": "GOV-033",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0090",
+    "Source Node ID": "GOV-032",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0091",
+    "Source Node ID": "GOV-032",
+    "Target Node ID": "GOV-034",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0092",
+    "Source Node ID": "GOV-033",
+    "Target Node ID": "GOV-009",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0093",
+    "Source Node ID": "GOV-033",
+    "Target Node ID": "GOV-017",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0094",
+    "Source Node ID": "GOV-033",
+    "Target Node ID": "GOV-035",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0095",
+    "Source Node ID": "GOV-034",
+    "Target Node ID": "GOV-035",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0096",
+    "Source Node ID": "GOV-034",
+    "Target Node ID": "GOV-029",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0097",
+    "Source Node ID": "GOV-034",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0098",
+    "Source Node ID": "GOV-035",
+    "Target Node ID": "GOV-004",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0099",
+    "Source Node ID": "GOV-035",
+    "Target Node ID": "GOV-041",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0100",
+    "Source Node ID": "GOV-035",
+    "Target Node ID": "GOV-050",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0101",
+    "Source Node ID": "GOV-036",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0102",
+    "Source Node ID": "GOV-036",
+    "Target Node ID": "GOV-032",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0103",
+    "Source Node ID": "GOV-037",
+    "Target Node ID": "GOV-045",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0104",
+    "Source Node ID": "GOV-037",
+    "Target Node ID": "GOV-016",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0105",
+    "Source Node ID": "GOV-038",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0106",
+    "Source Node ID": "GOV-038",
+    "Target Node ID": "GOV-039",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0107",
+    "Source Node ID": "GOV-039",
+    "Target Node ID": "GOV-014",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0108",
+    "Source Node ID": "GOV-039",
+    "Target Node ID": "GOV-032",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0109",
+    "Source Node ID": "GOV-040",
+    "Target Node ID": "GOV-016",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0110",
+    "Source Node ID": "GOV-040",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0111",
+    "Source Node ID": "GOV-041",
+    "Target Node ID": "GOV-012",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0112",
+    "Source Node ID": "GOV-041",
+    "Target Node ID": "GOV-042",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0113",
+    "Source Node ID": "GOV-042",
+    "Target Node ID": "GOV-012",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0114",
+    "Source Node ID": "GOV-042",
+    "Target Node ID": "GOV-004",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0115",
+    "Source Node ID": "GOV-043",
+    "Target Node ID": "GOV-006",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0116",
+    "Source Node ID": "GOV-043",
+    "Target Node ID": "GOV-031",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0117",
+    "Source Node ID": "GOV-044",
+    "Target Node ID": "GOV-029",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0118",
+    "Source Node ID": "GOV-044",
+    "Target Node ID": "GOV-033",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0119",
+    "Source Node ID": "GOV-045",
+    "Target Node ID": "GOV-037",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0120",
+    "Source Node ID": "GOV-045",
+    "Target Node ID": "GOV-017",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0121",
+    "Source Node ID": "GOV-046",
+    "Target Node ID": "GOV-022",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0122",
+    "Source Node ID": "GOV-046",
+    "Target Node ID": "GOV-031",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0123",
+    "Source Node ID": "GOV-047",
+    "Target Node ID": "GOV-032",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0124",
+    "Source Node ID": "GOV-047",
+    "Target Node ID": "GOV-013",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0125",
+    "Source Node ID": "GOV-048",
+    "Target Node ID": "GOV-006",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0126",
+    "Source Node ID": "GOV-048",
+    "Target Node ID": "GOV-042",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0127",
+    "Source Node ID": "GOV-049",
+    "Target Node ID": "GOV-004",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0128",
+    "Source Node ID": "GOV-049",
+    "Target Node ID": "GOV-005",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0129",
+    "Source Node ID": "GOV-050",
+    "Target Node ID": "GOV-016",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0130",
+    "Source Node ID": "GOV-050",
+    "Target Node ID": "GOV-051",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0131",
+    "Source Node ID": "GOV-051",
+    "Target Node ID": "GOV-019",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0132",
+    "Source Node ID": "GOV-051",
+    "Target Node ID": "GOV-050",
+    "Source Pillar": "Governance",
+    "Target Pillar": "Governance",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0133",
+    "Source Node ID": "RSK-001",
+    "Target Node ID": "RSK-019",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0134",
+    "Source Node ID": "RSK-002",
+    "Target Node ID": "RSK-019",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0135",
+    "Source Node ID": "RSK-003",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0136",
+    "Source Node ID": "RSK-004",
+    "Target Node ID": "RSK-034",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0137",
+    "Source Node ID": "RSK-005",
+    "Target Node ID": "RSK-051",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0138",
+    "Source Node ID": "RSK-006",
+    "Target Node ID": "RSK-027",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0139",
+    "Source Node ID": "RSK-007",
+    "Target Node ID": "RSK-019",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0140",
+    "Source Node ID": "RSK-008",
+    "Target Node ID": "RSK-021",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0141",
+    "Source Node ID": "RSK-009",
+    "Target Node ID": "RSK-033",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0142",
+    "Source Node ID": "RSK-010",
+    "Target Node ID": "RSK-029",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0143",
+    "Source Node ID": "RSK-011",
+    "Target Node ID": "RSK-030",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0144",
+    "Source Node ID": "RSK-012",
+    "Target Node ID": "RSK-021",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0145",
+    "Source Node ID": "RSK-013",
+    "Target Node ID": "RSK-024",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0146",
+    "Source Node ID": "RSK-014",
+    "Target Node ID": "RSK-070",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0147",
+    "Source Node ID": "RSK-015",
+    "Target Node ID": "RSK-081",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0148",
+    "Source Node ID": "RSK-016",
+    "Target Node ID": "RSK-026",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0149",
+    "Source Node ID": "RSK-017",
+    "Target Node ID": "RSK-025",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0150",
+    "Source Node ID": "RSK-018",
+    "Target Node ID": "RSK-024",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0151",
+    "Source Node ID": "RSK-019",
+    "Target Node ID": "RSK-027",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0152",
+    "Source Node ID": "RSK-020",
+    "Target Node ID": "RSK-021",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0153",
+    "Source Node ID": "RSK-021",
+    "Target Node ID": "RSK-027",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0154",
+    "Source Node ID": "RSK-022",
+    "Target Node ID": "RSK-035",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0155",
+    "Source Node ID": "RSK-023",
+    "Target Node ID": "RSK-029",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0156",
+    "Source Node ID": "RSK-024",
+    "Target Node ID": "RSK-026",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0157",
+    "Source Node ID": "RSK-025",
+    "Target Node ID": "RSK-048",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0158",
+    "Source Node ID": "RSK-026",
+    "Target Node ID": "RSK-031",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0159",
+    "Source Node ID": "RSK-027",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0160",
+    "Source Node ID": "RSK-028",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0161",
+    "Source Node ID": "RSK-029",
+    "Target Node ID": "RSK-027",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0162",
+    "Source Node ID": "RSK-030",
+    "Target Node ID": "RSK-032",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0163",
+    "Source Node ID": "RSK-031",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0164",
+    "Source Node ID": "RSK-032",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0165",
+    "Source Node ID": "RSK-033",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0166",
+    "Source Node ID": "RSK-034",
+    "Target Node ID": "RSK-097",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0167",
+    "Source Node ID": "RSK-035",
+    "Target Node ID": "RSK-039",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0168",
+    "Source Node ID": "RSK-036",
+    "Target Node ID": "RSK-039",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0169",
+    "Source Node ID": "RSK-037",
+    "Target Node ID": "RSK-039",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0170",
+    "Source Node ID": "RSK-038",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0171",
+    "Source Node ID": "RSK-039",
+    "Target Node ID": "RSK-042",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0172",
+    "Source Node ID": "RSK-040",
+    "Target Node ID": "RSK-045",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0173",
+    "Source Node ID": "RSK-041",
+    "Target Node ID": "RSK-068",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0174",
+    "Source Node ID": "RSK-042",
+    "Target Node ID": "RSK-045",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0175",
+    "Source Node ID": "RSK-043",
+    "Target Node ID": "RSK-051",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0176",
+    "Source Node ID": "RSK-044",
+    "Target Node ID": "RSK-069",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0177",
+    "Source Node ID": "RSK-045",
+    "Target Node ID": "RSK-051",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0178",
+    "Source Node ID": "RSK-046",
+    "Target Node ID": "RSK-045",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0179",
+    "Source Node ID": "RSK-047",
+    "Target Node ID": "RSK-045",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0180",
+    "Source Node ID": "RSK-048",
+    "Target Node ID": "RSK-084",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0181",
+    "Source Node ID": "RSK-049",
+    "Target Node ID": "RSK-078",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0182",
+    "Source Node ID": "RSK-050",
+    "Target Node ID": "RSK-084",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0183",
+    "Source Node ID": "RSK-051",
+    "Target Node ID": "RSK-053",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0184",
+    "Source Node ID": "RSK-052",
+    "Target Node ID": "RSK-064",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0185",
+    "Source Node ID": "RSK-053",
+    "Target Node ID": "RSK-060",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0186",
+    "Source Node ID": "RSK-054",
+    "Target Node ID": "RSK-066",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0187",
+    "Source Node ID": "RSK-055",
+    "Target Node ID": "RSK-067",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0188",
+    "Source Node ID": "RSK-056",
+    "Target Node ID": "RSK-060",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0189",
+    "Source Node ID": "RSK-057",
+    "Target Node ID": "RSK-062",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0190",
+    "Source Node ID": "RSK-058",
+    "Target Node ID": "RSK-060",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0191",
+    "Source Node ID": "RSK-059",
+    "Target Node ID": "RSK-060",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0192",
+    "Source Node ID": "RSK-060",
+    "Target Node ID": "RSK-062",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0193",
+    "Source Node ID": "RSK-061",
+    "Target Node ID": "RSK-063",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0194",
+    "Source Node ID": "RSK-062",
+    "Target Node ID": "RSK-063",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0195",
+    "Source Node ID": "RSK-063",
+    "Target Node ID": "RSK-090",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0196",
+    "Source Node ID": "RSK-064",
+    "Target Node ID": "RSK-019",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0197",
+    "Source Node ID": "RSK-065",
+    "Target Node ID": "RSK-062",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0198",
+    "Source Node ID": "RSK-066",
+    "Target Node ID": "RSK-062",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0199",
+    "Source Node ID": "RSK-067",
+    "Target Node ID": "RSK-078",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0200",
+    "Source Node ID": "RSK-068",
+    "Target Node ID": "RSK-069",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0201",
+    "Source Node ID": "RSK-069",
+    "Target Node ID": "RSK-073",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0202",
+    "Source Node ID": "RSK-070",
+    "Target Node ID": "RSK-073",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0203",
+    "Source Node ID": "RSK-071",
+    "Target Node ID": "RSK-073",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0204",
+    "Source Node ID": "RSK-072",
+    "Target Node ID": "RSK-073",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0205",
+    "Source Node ID": "RSK-073",
+    "Target Node ID": "RSK-096",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0206",
+    "Source Node ID": "RSK-074",
+    "Target Node ID": "RSK-073",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0207",
+    "Source Node ID": "RSK-075",
+    "Target Node ID": "RSK-076",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0208",
+    "Source Node ID": "RSK-076",
+    "Target Node ID": "RSK-079",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0209",
+    "Source Node ID": "RSK-077",
+    "Target Node ID": "RSK-084",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0210",
+    "Source Node ID": "RSK-078",
+    "Target Node ID": "RSK-079",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0211",
+    "Source Node ID": "RSK-079",
+    "Target Node ID": "RSK-080",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0212",
+    "Source Node ID": "RSK-080",
+    "Target Node ID": "RSK-091",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0213",
+    "Source Node ID": "RSK-081",
+    "Target Node ID": "RSK-015",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0214",
+    "Source Node ID": "RSK-082",
+    "Target Node ID": "RSK-062",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0215",
+    "Source Node ID": "RSK-083",
+    "Target Node ID": "RSK-024",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0216",
+    "Source Node ID": "RSK-084",
+    "Target Node ID": "RSK-085",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0217",
+    "Source Node ID": "RSK-085",
+    "Target Node ID": "RSK-086",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0218",
+    "Source Node ID": "RSK-086",
+    "Target Node ID": "RSK-091",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0219",
+    "Source Node ID": "RSK-087",
+    "Target Node ID": "RSK-103",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0220",
+    "Source Node ID": "RSK-088",
+    "Target Node ID": "RSK-004",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0221",
+    "Source Node ID": "RSK-089",
+    "Target Node ID": "RSK-091",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0222",
+    "Source Node ID": "RSK-090",
+    "Target Node ID": "RSK-063",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0223",
+    "Source Node ID": "RSK-091",
+    "Target Node ID": "RSK-098",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0224",
+    "Source Node ID": "RSK-092",
+    "Target Node ID": "RSK-019",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0225",
+    "Source Node ID": "RSK-093",
+    "Target Node ID": "RSK-096",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0226",
+    "Source Node ID": "RSK-094",
+    "Target Node ID": "RSK-096",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0227",
+    "Source Node ID": "RSK-095",
+    "Target Node ID": "RSK-096",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0228",
+    "Source Node ID": "RSK-096",
+    "Target Node ID": "RSK-051",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0229",
+    "Source Node ID": "RSK-097",
+    "Target Node ID": "RSK-103",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0230",
+    "Source Node ID": "RSK-098",
+    "Target Node ID": "RSK-037",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0231",
+    "Source Node ID": "RSK-099",
+    "Target Node ID": "RSK-103",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0232",
+    "Source Node ID": "RSK-100",
+    "Target Node ID": "RSK-103",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0233",
+    "Source Node ID": "RSK-101",
+    "Target Node ID": "RSK-103",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0234",
+    "Source Node ID": "RSK-102",
+    "Target Node ID": "RSK-103",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  },
+  {
+    "Relationship ID": "REL-0235",
+    "Source Node ID": "RSK-103",
+    "Target Node ID": "RSK-096",
+    "Source Pillar": "Risk",
+    "Target Pillar": "Risk",
+    "Relationship Type": "proposed connection",
+    "Directionality": "Unidirectional",
+    "Confidence Band": "Hypothesis"
+  }
+]
